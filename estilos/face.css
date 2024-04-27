@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+}
+ 
+img {
+    width: 250px;
+    height: 150px;
+}
+
+
+
+.menu-desktop > ul > li {
+   list-style-type: none;  
+   display: inline-block;
+   padding: 30px;   
+
+}
+
+.btn-contato a > button {
+ right: 50%;
+    
+
+}
